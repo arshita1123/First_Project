@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Images/about_me.png</file>
+        <file>Images/paste.png</file>
+        <file>Images/redo.png</file>
+        <file>Images/save.png</file>
+        <file>Images/save_as.png</file>
+        <file>Images/undo.jpg</file>
+        <file>Images/copy.png</file>
+        <file>Images/cut.png</file>
+        <file>Images/new.png</file>
+        <file>Images/open.png</file>
+        <file>Images/underline.jpg</file>
+        <file>Images/bold.jfif</file>
+        <file>Images/italic.jpg</file>
+    </qresource>
+    <qresource prefix="/prefix2"/>
+</RCC>
